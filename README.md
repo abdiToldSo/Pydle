@@ -3,8 +3,8 @@
 <h3>Fear not for now you can play wordle within your computer desktop. Simply run the pydle sript and you will be ready</h3>
 
 <h2>Dependencies:</h2>
-<a href="https://github.com/flet-dev/flet">flet</a>
-<a href="https://github.com/seatgeek/thefuzz"thefuzz</a>
-<a href="https://github.com/mrmaxguns/wonderwordsmodule">wonderwords</a>
+<h3><a href="https://github.com/flet-dev/flet">flet</a></h3>
+<h3><a href="https://github.com/seatgeek/thefuzz">thefuzz</a></h3>
+<h3><a href="https://github.com/mrmaxguns/wonderwordsmodule">wonderwords</a></h3>
 
 &copy; Abdi Tolessa 2024
